@@ -4,8 +4,10 @@ This repository provides a German release package of Rainmeter 1.4.2.
 
 ## Version
 
-**Rainmeter 1.4.2**  
-Release: **1.4.2.0**  
+**Rainmeter 1.4.2**
+
+Release: **1.4.2.0**
+
 Platform: **Windows x64**
 
 ## Included
@@ -27,6 +29,14 @@ The compiled installer and portable ZIP package are available under **Releases**
 
 SHA-256:
 
+```text
+Rainmeter-1.4.2.0.exe
+04EDCC94BC8C580A043A1D411A3951162C20A52F59340B7DF7F3AE6DD3B99F62
+
+Rainmeter-1.4.2-x64.zip
+9084EADFFF476B6D1E3EEB78A415A9A0C3DF31C5DAEFE859574C292F1A53ED4B
+```
+
 ## License and Attribution
 
 This project is a German release build of Rainmeter 1.4.2.
@@ -39,14 +49,8 @@ https://github.com/rainmeter/rainmeter
 This repository provides a German release package based on Rainmeter 1.4.2, including the included language files and the corresponding release build.
 
 All rights to the original Rainmeter software remain with their respective copyright holders.
-```text
-Rainmeter-1.4.2.0.exe
-04EDCC94BC8C580A043A1D411A3951162C20A52F59340B7DF7F3AE6DD3B99F62
 
-Rainmeter-1.4.2-x64.zip
-9084EADFFF476B6D1E3EEB78A415A9A0C3DF31C5DAEFE859574C292F1A53ED4B
-
-C## Credits
+## Credits
 
 Rainmeter is developed by the Rainmeter Team.
 
