@@ -6,7 +6,7 @@ This repository provides a German release package of Rainmeter 1.4.3.
 
 **Rainmeter 1.4.3**
 
-Release: **1.4.2.0**
+Release: **1.4.3.0**
 
 Platform: **Windows x64**
 
