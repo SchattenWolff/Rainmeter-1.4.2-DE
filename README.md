@@ -1,10 +1,10 @@
-# Rainmeter 1.4.2 – German Release
+# Rainmeter 1.4.3 – German Release
 
-This repository provides a German release package of Rainmeter 1.4.2.
+This repository provides a German release package of Rainmeter 1.4.3.
 
 ## Version
 
-**Rainmeter 1.4.2**
+**Rainmeter 1.4.3**
 
 Release: **1.4.2.0**
 
@@ -12,12 +12,13 @@ Platform: **Windows x64**
 
 ## Included
 
-- Rainmeter 1.4.2 x64
+- Rainmeter 1.4.3 x64
 - German language support
 - All included Rainmeter language files
 - SkinInstaller
 - Default illustro skins and layout
 - Windows startup support
+- neu hinzugefügt: Musik Tracker
 
 The release package contains runtime files only and does not include the Rainmeter source code or development files.
 
