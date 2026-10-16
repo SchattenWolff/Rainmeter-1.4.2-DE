@@ -18,7 +18,7 @@ Platform: **Windows x64**
 - SkinInstaller
 - Default illustro skins and layout
 - Windows startup support
-- neu hinzugefügt: Musik Tracker
+- Neu hinzugefügt: Musiktracker für ZeroOne Beats mit Anzeige des aktuellen und nächsten Titels
 
 The release package contains runtime files only and does not include the Rainmeter source code or development files.
 
