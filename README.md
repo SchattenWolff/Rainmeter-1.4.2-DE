@@ -12,7 +12,7 @@ Platform: **Windows x64**
 
 ## Included
 
-- Rainmeter 1.4.3 x64
+- Rainmeter 1.4.2 x64
 - German language support
 - All included Rainmeter language files
 - SkinInstaller
