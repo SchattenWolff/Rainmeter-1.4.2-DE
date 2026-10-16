@@ -40,14 +40,14 @@ Rainmeter-1.4.2-x64.zip
 
 ## License and Attribution
 
-This project is a German release build of Rainmeter 1.4.2.
+This project is a German release build of Rainmeter 1.4.3.
 
 Rainmeter itself is not an original work of this repository. The Rainmeter software and its source code are developed by the Rainmeter Team and are licensed under the GNU General Public License v2 (GPL-2.0).
 
 Official Rainmeter project:
 https://github.com/rainmeter/rainmeter
 
-This repository provides a German release package based on Rainmeter 1.4.2, including the included language files and the corresponding release build.
+This repository provides a German release package based on Rainmeter 1.4.3, including the included language files and the corresponding release build.
 
 All rights to the original Rainmeter software remain with their respective copyright holders.
 
